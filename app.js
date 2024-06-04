@@ -84,12 +84,12 @@ let isLessOrEqual= (a <= b);
 // Example: let andResult;
 // Use '&&' to check if both 'a' and 'b' are greater than 5.
 
-let andResult= (a > 0 && b > 5);
+let andResult= (a > 5 && b > 5);
 
 // Example: let orResult;
 // Use '||' to check if either 'a' or 'b' is greater than 5.
 
-let orResult= (a > 0 || b > 5);
+let orResult= (a > 5 || b > 5);
 
 //
 // Do not edit below this line, this code will display the values on the page
